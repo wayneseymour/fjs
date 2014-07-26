@@ -1,0 +1,25 @@
+{
+  "name": "fjs",
+  "version": "0.0.0",
+  "description": "Personal study of functional programming in JavaScript.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/wayneseymour/fjs.git"
+  },
+  "keywords": [
+    "functional",
+    "javascript",
+    "underscore",
+    "lodash"
+  ],
+  "author": "Wayne Kenneth Seymour III",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/wayneseymour/fjs/issues"
+  },
+  "homepage": "https://github.com/wayneseymour/fjs"
+}
