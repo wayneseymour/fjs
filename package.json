@@ -21,5 +21,8 @@
   "bugs": {
     "url": "https://github.com/wayneseymour/fjs/issues"
   },
-  "homepage": "https://github.com/wayneseymour/fjs"
+  "homepage": "https://github.com/wayneseymour/fjs",
+  "dependencies": {
+    "underscore": "^1.6.0"
+  }
 }
